@@ -2,7 +2,7 @@
 body {
   margin: 0;
   font-family: 'Montserrat', sans-serif;
-  background-color: #fdebd0;
+  background-color: #fcf9f1;
   display: flex;
 }
 
@@ -40,7 +40,7 @@ body {
 }
 
 .sidebar-link {
-  color: #fdebd0;
+  color: #fcf9f1;
   text-decoration: none;
   font-weight: 400;
   font-size: 18px;
