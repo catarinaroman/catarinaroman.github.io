@@ -88,6 +88,14 @@ h3 {
   font-weight: 400;
 }
 
+h4 {
+  color: #eac866;
+  font-size: 18px; /* Same size as the body text */
+  font-weight: 600; /* Higher weight for emphasis */
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
 p {
   font-weight: 200;
   font-size: 18px;
