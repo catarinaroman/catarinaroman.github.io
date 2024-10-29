@@ -102,3 +102,15 @@ p {
   color: #000;
   line-height: 1.6;
 }
+
+/* Link Styling */
+a {
+  text-decoration: none; /* No underline by default */
+  color: inherit; /* Inherit the color of the surrounding text */
+  transition: text-decoration 0.3s ease; /* Smooth transition for underline */
+}
+
+a:hover {
+  text-decoration: underline; /* Add underline on hover */
+}
+
