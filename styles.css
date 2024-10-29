@@ -25,6 +25,7 @@ body {
   margin-bottom: 10px;
 }
 
+/* Name Styles */
 .name {
   color: #90bfc5;
   font-weight: 300;
@@ -33,6 +34,7 @@ body {
   margin-left: 40px; /* Shift to the right */
 }
 
+/* Navigation Links */
 .sidebar-nav {
   display: flex;
   flex-direction: column;
@@ -48,6 +50,24 @@ body {
 
 .sidebar-link.active {
   font-weight: bold;
+}
+
+/* Social Icons Styles */
+.social-icons {
+  margin-top: auto; /* Push icons to the bottom */
+  display: flex;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.icon-link {
+  color: #90bfc5;
+  font-size: 24px;
+  text-decoration: none;
+}
+
+.icon-link:hover {
+  color: #6e9296;
 }
 
 /* Content Styles */
