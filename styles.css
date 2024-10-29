@@ -29,6 +29,8 @@ body {
   color: #90bfc5;
   font-weight: 300;
   margin-bottom: 40px;
+  align-self: flex-start; /* Align to the left of the sidebar */
+  margin-left: 40px; /* Shift to the right */
 }
 
 .sidebar-nav {
