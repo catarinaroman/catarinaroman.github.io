@@ -54,7 +54,6 @@ body {
 
 /* Social Icons Styles */
 .social-icons {
-  margin-top: auto; /* Push icons to the bottom */
   display: flex;
   gap: 20px;
   margin-bottom: 20px;
